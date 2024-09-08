@@ -3,7 +3,7 @@ A collection of ANSI color codes.
 
 ## Install
 
-You will be prompted to install this package when installing clstyles. If you would like to install separately, run:
+To install, run:
 ```bash
 npm i clcolors
 ```
