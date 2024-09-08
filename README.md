@@ -1,4 +1,4 @@
-# clColors
+# clcolors
 A collection of ANSI color codes.
 
 ## Install
