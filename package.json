@@ -1,6 +1,7 @@
 {
   "name": "clcolors",
-  "version": "1.0.4",
+  "type": "module",
+  "version": "1.0.5",
   "description": "A collection of ANSI color codes.",
   "main": "clcolors.js",
   "scripts": {
