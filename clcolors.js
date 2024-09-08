@@ -9,9 +9,11 @@
  * @property {string} yellow - ANSI escape code for yellow text.
  * @property {string} blue - ANSI escape code for blue text.
  */
-export default colors = {
+const colors = {
     red: "\x1b[31m",
     green: "\x1b[32m",
     yellow: "\x1b[33m",
     blue: "\x1b[34m",
 };
+
+export default colors;
